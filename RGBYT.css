@@ -534,6 +534,52 @@ yt-icon.ytd-pinned-comment-badge-renderer {
     animation: ColorTransition 5s linear 0s infinite alternate;
 }
 
+.ytd-grid-video-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-rich-list-header-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-interactive-tabbed-header-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-channel-list-sub-menu-avatar-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-shelf-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-profile-column-user-info-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-profile-column-stats-entry-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-topbar-logo-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-feed-filter-chip-bar-renderer,
+.iron-selected {
+    color: white;
+    animation: BgTransition 5s linear 0s infinite alternate;
+}
+
 /* KeyFrames for background color */
 @keyframes BgTransition {
     100%,
