@@ -580,6 +580,52 @@ yt-icon.ytd-pinned-comment-badge-renderer {
     animation: BgTransition 5s linear 0s infinite alternate;
 }
 
+.ytd-page-introduction-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-item-section-header-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-settings-options-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-channel-options-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.yt-formatted-string:not(a).bold {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-settings-sidebar-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+ytd-compact-link-renderer[compact-link-style=compact-link-style-type-settings-sidebar][active] #label.ytd-compact-link-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+.ytd-settings-switch-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+ytd-guide-entry-renderer[active] .title.ytd-guide-entry-renderer {
+    color: white;
+    animation: ColorTransition 5s linear 0s infinite alternate;
+}
+
+
 /* KeyFrames for background color */
 @keyframes BgTransition {
     100%,
