@@ -15,6 +15,8 @@ __________
 5. In `URL on the domain` write `www.youtube.com`.
 __________
 > You're done now! Enjoy your RGB YouTube!
+- Anyways I don't suggest you to use this theme if your pc has low `RAM` or `CPU`.
+- The theme works good with `YouTube Dark Theme` You should try it out.
 __________
 > **Some pictures**
 
