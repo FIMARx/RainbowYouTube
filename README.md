@@ -18,7 +18,8 @@ __________
 - Anyways I don't suggest you to use this theme if your pc has low `RAM` or `CPU`.
 - The theme works good with `YouTube Dark Theme` You should try it out.
 __________
-> **Some pictures**
+> # Some pictures
+__________
 
 > ![image](https://user-images.githubusercontent.com/69573290/101331669-fefc9b80-387c-11eb-9199-e67a5f353b59.png)
 __________
